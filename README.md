@@ -1,4 +1,4 @@
-# Preparacao dados
+# Preparação dados com SQL
 
 Neste projeto foi realizado as seguintes atividades:
 - Identificação e resolução de problemas na massa de dados
